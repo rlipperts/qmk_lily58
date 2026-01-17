@@ -40,7 +40,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_SAT_STEP 17
 #define RGBLIGHT_VAL_STEP 17
 #define SPLIT_USB_DETECT
+#define SPLIT_USB_TIMEOUT 1000
 #define SPLIT_WATCHDOG_ENABLE
+#define SPLIT_WATCHDOG_TIMEOUT 2000
 
 // Underglow
 /*
